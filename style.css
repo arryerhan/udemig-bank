@@ -1,0 +1,55 @@
+
+#login-box{
+    margin-top: 40px;
+    border: 1px solid #ccc;    
+    border-radius: 10px;
+    min-width: 380px;
+}
+
+.header{
+    display: flex;
+    justify-content:left;
+    align-items: center;
+}
+
+.header img{
+    width:30px;
+    margin-right: 10px;
+}
+.btn{
+    background-color: #6E8BE8;
+    border: #6E8BE8;
+    color: #fff;
+}
+
+.btn:hover{
+scale: 0.92;
+background-color: #6E8BE8;
+border: #6E8BE8;
+}
+
+.transactions{
+    background-color:rgba(211, 211, 211, 0.745);
+    border-radius:2px;
+
+}
+
+.deposit-blue{
+    color: #6E8BE8;
+
+}
+
+.withdraw-red{
+    color: rgb(177, 62, 62);
+}
+
+
+
+.half{
+    width:9%;
+}
+
+.half2{
+    width:11%;
+}
+
